@@ -41,3 +41,4 @@ Wii Fit, con su enfoque pionero en combinar ejercicio y videojuegos, es un ejemp
 
 Siri y Ring Fit Adventures son ejemplos claros de cómo la diferentes tecnologías y datos se pueden unir para crear experiencias únicas. No solo representan una mejor funcionalidad, sino que también nos muestran como la hibridación puede mejorar nuestras interacciones haciéndolas más inmersivas y personalizadas.
 
+## Bibliografía
