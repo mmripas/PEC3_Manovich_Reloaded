@@ -7,7 +7,7 @@
 ## Introducción 
 La hibridación es un concepto crucial para entender los nuevos medios y la cultura digital. Lev Manovich, subraya la importancia de esta como un proceso que va más allá de la simple suma de medios. Lev Manovich destaca en su obra "El software toma el mando" cómo la hibridación permite una interacción más profunda entre diferentes medios creando algo distintivo y novedoso. 
 
-Como nos expresa Manovich en su libro, " *Las propiedades técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*"(Manovich, 2013, p. 267)
+ >"*Las propiedades técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*"(Manovich, 2013, p. 267)
 
 En este ensayo exploraré la hibridación a través de los ejemplos de Siri y Ring Fit Adventure, ilustrando cómo estos casos representan la integración y transformación de medios.
 
