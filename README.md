@@ -40,13 +40,13 @@ La antropomorfización de Siri es otro aspecto de la hibridación ya que esta no
 
 ![image](https://github.com/mmripas/PEC3_Manovich_Reloaded/assets/134969181/6ac78ebd-2cc6-4f3c-899f-8523a0974407)
 
-Ring Fit Adventure, desarrollado por Nintendo, es un ejemplo de hibridación en el ámbito de los videojuegos y la salud. Este juego combina el ejercicio físico con mecánicas de videojuegos, tranformando la forma en la que se ejercitan las personas.
+Ring Fit Adventure, creado por Nintendo, es un caso de combinación en el mundo de los videojuegos y la salud. Esta actividad fusiona la actividad física con elementos de los videojuegos, cambiando la manera en que las personas hacen ejercicio.
 
-Utiliza un anillo de resistencia y una correa para la pierna para rastrear los movimientos del jugador ofreciendo así una experiencia inmersiva que se adapta a las necesidades de los usuarios. Combinando la diversión de los videojuegos con los beneficios del ejercicios, fomenta la adherencia al ejercicio. Los jugadores realizan una serie de ejercicios físicos mientras avanzan en una aventura donde luchan contra enemigos y completan misiones.
+Se emplea un anillo de resistencia y una correa en la pierna para rastrear los movimientos del jugador, brindando una experiencia inmersiva personalizada. Integra la diversión de los videojuegos con los efectos positivos del ejercicio, promoviendo de esta manera la constancia en la actividad física. Los jugadores llevan a cabo varios ejercicios mientras progresan en una aventura en la que combaten a enemigos y cumplen misiones.
 
-Ring Fit Adventure adapta la dificultad y el tipo de ejercicios en función de la condición física del jugador y sus preferencias. Esta personalización se consigue gracias a la recopilación de datos y su análisis del rendimiento, lo cual es un ejemplo de hibridación entre datos de salud y algoritmos personalizados.
+Ring Fit Adventure personaliza la dificultad y los ejercicios según la condición física y las preferencias de cada jugador. Esto se logra mediante la recolección de datos y su evaluación, que demuestra la combinacion de datos de salud y algoritmos personalizados.
 
-Por otro lado, a medida que se avanza en el juego los usuarios mejoran su personaje y desbloquean habilidades. Estos elementos de RPG aumentan la motivación del usuario ofreciendo recompensas haciendo que el usuario se sienta satisfecho al prograsar en el juego y hacer ejercicio.
+Por otro lado, a medida que se avanza en el juego los usuarios mejoran su personaje y desbloquean habilidades. Estos elementos de RPG aumentan la motivación del usuario ofreciendo recompensas haciendo que el usuario se sienta satisfecho al progresar en el juego y hacer ejercicio.
 
 La demanda del Ring Fit Adventure se vio aumentada en 2020 debido a la pandemia de COVID-19 ya que nos encontrábamos en una época donde los gimnasios y otras instalaciones dónde se podía hacer ejercicio estaba clausuradas.
 
