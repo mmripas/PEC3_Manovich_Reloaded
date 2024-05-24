@@ -17,7 +17,7 @@ En este ensayo exploraré la hibridación a través de los ejemplos de Siri y Ri
 
 Siri, desarrollada por Apple, es un claro ejemplo de hibridación en el ámbito de los asistentes virtuales. Esta integra diversas tecnologías y fuentes de datos para ofrecer una experiencia personalizada y antropomorfizada.
 
-Siri utiliza inteligencia artificial y procesamiento del lenguaje natural para entender y responder a consultas de usuarios. La integración de estas tecnologías permite que no solo responda preguntas, sino que también aprenda de interacciones previas personaliznado así sus respuestas.
+Siri utiliza inteligencia artificial y procesamiento del lenguaje natural para entender y responder a consultas de usuarios. La integración de estas tecnologías permite que no solo responda preguntas, sino que también aprenda de interacciones previas personalizado así sus respuestas.
 
 Al combinar datos de diferentes fuentes como calendario, música, correos, etc. Siri crea una experiencia integrada y fluida.
 Esta combinación se produce del siguiente modo: 
@@ -28,7 +28,7 @@ Esta combinación se produce del siguiente modo:
   
 - **3. Calendarios y recordatorios**: Puede acceder a aplicaciones de calendario y recordatorios, permitiendo que el usuario cree, modifique y consulte eventos y tareas mediante los comandos de voz.
   
-- **4. Múscia y Entretenimiento**: Conectada al reproductor de música del usuario, permite reproducir canciones y podcast mediante comandos de voz.
+- **4. Música y Entretenimiento**: Conectada al reproductor de música del usuario, permite reproducir canciones y podcast mediante comandos de voz.
   
 - **5. Búsqueda y Navegación**: Puede realizar búsquedas en internet y proporcionar direcciones gracias a la aplicación de mapas ofreciendo rutas optimizadas o recomendaciones de lugares cercanos.
 
@@ -44,15 +44,15 @@ Ring Fit Adventure, desarrollado por Nintendo, es un ejemplo de hibridación en 
 
 Utiliza un anillo de resistencia y una correa para la pierna para rastrear los movimientos del jugador ofreciendo así una experiencia inmersiva que se adapta a las necesidades de los usuarios. Combinando la diversión de los videojuegos con los beneficios del ejercicios, fomenta la adherencia al ejercicio. Los jugadores realizan una serie de ejercicios físicos mientras avanzan en una aventura donde luchan contra enemigos y completan misiones.
 
-Ring Fit Adventure adapta la dificultad y el tipo de ejercicios en función de la condición física del jugador y sus preferencias. Esta personalización se consigue gracias a la recopilación de datos y su análisis del rendimiento, lo cual es un ejemplo de hibridación entre datos de salud y algoritmos personalizados. 
+Ring Fit Adventure adapta la dificultad y el tipo de ejercicios en función de la condición física del jugador y sus preferencias. Esta personalización se consigue gracias a la recopilación de datos y su análisis del rendimiento, lo cual es un ejemplo de hibridación entre datos de salud y algoritmos personalizados.
 
 Por otro lado, a medida que se avanza en el juego los usuarios mejoran su personaje y desbloquean habilidades. Estos elementos de RPG aumentan la motivación del usuario ofreciendo recompensas haciendo que el usuario se sienta satisfecho al prograsar en el juego y hacer ejercicio.
 
 La demanda del Ring Fit Adventure se vio aumentada en 2020 debido a la pandemia de COVID-19 ya que nos encontrábamos en una época donde los gimnasios y otras instalaciones dónde se podía hacer ejercicio estaba clausuradas.
 
-El juego encaja en el programa de "calidad de vida" de Nintendo, cuyo objetivo es introducir actividad física en los videojuegos. Este fue un movimiento iniciado por Satoru Iwata con la introducción de la Wii y el juego Wii Fit. 
+El juego encaja en el programa de "calidad de vida" de Nintendo, cuyo objetivo es introducir actividad física en los videojuegos. Este fue un movimiento iniciado por Satoru Iwata con la introducción de la Wii y el juego Wii Fit.
 
-Wii Fit, con su enfoque pionero en combinar ejercicio y videojuegos, es un ejemplo de un concepto que, aunque obsoleto en su forma original, ha sido revitalizado y mejorado en Ring Fit Adventure. 
+Wii Fit, con su enfoque pionero en combinar ejercicio y videojuegos, es un ejemplo de un concepto que, aunque obsoleto en su forma original, ha sido revitalizado y mejorado en Ring Fit Adventure.
 
 ## Conclusión
 
