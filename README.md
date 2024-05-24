@@ -64,3 +64,5 @@ Siri y Ring Fit Adventures son ejemplos claros de cómo la diferentes tecnologí
 - Wikipedia (n.d). Siri. [Enlace.](https://es.wikipedia.org/wiki/Siri)
 - Wikipedia (n.d). Ring Fit Adventure. [Enlace.](https://es.wikipedia.org/wiki/Ring_Fit_Adventure)
 - Nintendo (n.d). Ring Fit Adventure. [Enlace.](https://ringfitadventure.nintendo.com/es/)
+- Imágen Siri. [Enlace.](https://www.apple.com/v/siri/h/images/meta/siri__fsb5b98qe526_og.png?202403191646)
+- Imágen Ring Fit Adventure. [Enlace.](https://ringfitadventure.nintendo.com/es/)
