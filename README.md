@@ -20,6 +20,13 @@ Siri, desarrollada por Apple, es un claro ejemplo de hibridación en el ámbito 
 Siri utiliza inteligencia artificial y procesamiento del lenguaje natural para entender y responder a consultas de usuarios. La integración de estas tecnologías permite que no solo responda preguntas, sino que también aprenda de interacciones previas personaliznado así sus respuestas.
 
 Al combinar datos de diferentes fuentes como calendario, música, correos, etc. Siri crea una experiencia integrada y fluida.
+Esta combinación se produce del siguiente modo: 
+
++ **Mail y mensajes**: Siri puede leer y redactar tanto mails como mensajes de texto. Al vincularse con las cuentas de aplicaciones de mensajería y correo electrónico, facilita la comunicación sin necesidad de interacción.
++ **Sistemas de domótica**: Siri tiene la capacidad de controlar dispositivos inteligentes como termostados, luces, y timbres permitiendo que el usuario controle su entorno de una forma eficiente mediante comandos de voz.
++ **Calendarios y recordatorios**: Puede acceder a aplicaciones de calendario y recordatorios, permitiendo que el usuario cree, modifique y consulte eventos y tareas mediante los comandos de voz.
++ **Múscia y Entretenimiento**: Conectada al reproductor de música del usuario, permite reproducir canciones y podcast mediante comandos de voz.
++ **Búsqueda y Navegación**: Puede realizar búsquedas en internet y proporcionar direcciones gracias a la aplicación de mapas ofreciendo rutas optimizadas o recomendaciones de lugares cercanos.
 
 Un punto fuerte de Siri es su integración con los dispositivos que conforman el ecosistema Apple, permitiendo así un control y acceso a la información sin interrupciones.
 
