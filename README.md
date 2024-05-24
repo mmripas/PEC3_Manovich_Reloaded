@@ -22,11 +22,15 @@ Siri utiliza inteligencia artificial y procesamiento del lenguaje natural para e
 Al combinar datos de diferentes fuentes como calendario, música, correos, etc. Siri crea una experiencia integrada y fluida.
 Esta combinación se produce del siguiente modo: 
 
-+ **Mail y mensajes**: Siri puede leer y redactar tanto mails como mensajes de texto. Al vincularse con las cuentas de aplicaciones de mensajería y correo electrónico, facilita la comunicación sin necesidad de interacción.
-+ **Sistemas de domótica**: Siri tiene la capacidad de controlar dispositivos inteligentes como termostados, luces, y timbres permitiendo que el usuario controle su entorno de una forma eficiente mediante comandos de voz.
-+ **Calendarios y recordatorios**: Puede acceder a aplicaciones de calendario y recordatorios, permitiendo que el usuario cree, modifique y consulte eventos y tareas mediante los comandos de voz.
-+ **Múscia y Entretenimiento**: Conectada al reproductor de música del usuario, permite reproducir canciones y podcast mediante comandos de voz.
-+ **Búsqueda y Navegación**: Puede realizar búsquedas en internet y proporcionar direcciones gracias a la aplicación de mapas ofreciendo rutas optimizadas o recomendaciones de lugares cercanos.
+- **1. Mail y mensajes**: Siri puede leer y redactar tanto mails como mensajes de texto. Al vincularse con las cuentas de aplicaciones de mensajería y correo electrónico, facilita la comunicación sin necesidad de interacción.
+  
+- **2. Sistemas de domótica**: Siri tiene la capacidad de controlar dispositivos inteligentes como termostatos, luces, y timbres permitiendo que el usuario controle su entorno de una forma eficiente mediante comandos de voz.
+  
+- **3. Calendarios y recordatorios**: Puede acceder a aplicaciones de calendario y recordatorios, permitiendo que el usuario cree, modifique y consulte eventos y tareas mediante los comandos de voz.
+  
+- **4. Múscia y Entretenimiento**: Conectada al reproductor de música del usuario, permite reproducir canciones y podcast mediante comandos de voz.
+  
+- **5. Búsqueda y Navegación**: Puede realizar búsquedas en internet y proporcionar direcciones gracias a la aplicación de mapas ofreciendo rutas optimizadas o recomendaciones de lugares cercanos.
 
 Un punto fuerte de Siri es su integración con los dispositivos que conforman el ecosistema Apple, permitiendo así un control y acceso a la información sin interrupciones.
 
@@ -38,9 +42,15 @@ La antropomorfización de Siri es otro aspecto de la hibridación ya que esta no
 
 Ring Fit Adventure, desarrollado por Nintendo, es un ejemplo de hibridación en el ámbito de los videojuegos y la salud. Este juego combina el ejercicio físico con mecánicas de videojuegos, tranformando la forma en la que se ejercitan las personas.
 
-Este ofrece una experiencia inmersiva que se adapta a las necesidades de los usuarios. Combinando la diversión de los videojuegos con los beneficios del ejercicios, fomenta la adherencia al ejercicio. Los jugadores realizan una serie de ejercicios físicos mientras avanzan en una aventura donde luchan contra enemigos y completan misiones.
+Utiliza un anillo de resistencia y una correa para la pierna para rastrear los movimientos del jugador ofreciendo así una experiencia inmersiva que se adapta a las necesidades de los usuarios. Combinando la diversión de los videojuegos con los beneficios del ejercicios, fomenta la adherencia al ejercicio. Los jugadores realizan una serie de ejercicios físicos mientras avanzan en una aventura donde luchan contra enemigos y completan misiones.
 
-Ring Fit Adventure encaja en el programa de "calidad de vida" de Nintendo, cuyo objetivo es introducir actividad física en los videojuegos. Este fue un movimiento iniciado por Satoru Iwata con la introducción de la Wii y el juego Wii Fit. 
+Ring Fit Adventure adapta la dificultad y el tipo de ejercicios en función de la condición física del jugador y sus preferencias. Esta personalización se consigue gracias a la recopilación de datos y su análisis del rendimiento, lo cual es un ejemplo de hibridación entre datos de salud y algoritmos personalizados. 
+
+Por otro lado, a medida que se avanza en el juego los usuarios mejoran su personaje y desbloquean habilidades. Estos elementos de RPG aumentan la motivación del usuario ofreciendo recompensas haciendo que el usuario se sienta satisfecho al prograsar en el juego y hacer ejercicio.
+
+La demanda del Ring Fit Adventure se vio aumentada en 2020 debido a la pandemia de COVID-19 ya que nos encontrábamos en una época donde los gimnasios y otras instalaciones dónde se podía hacer ejercicio estaba clausuradas.
+
+El juego encaja en el programa de "calidad de vida" de Nintendo, cuyo objetivo es introducir actividad física en los videojuegos. Este fue un movimiento iniciado por Satoru Iwata con la introducción de la Wii y el juego Wii Fit. 
 
 Wii Fit, con su enfoque pionero en combinar ejercicio y videojuegos, es un ejemplo de un concepto que, aunque obsoleto en su forma original, ha sido revitalizado y mejorado en Ring Fit Adventure. 
 
